@@ -1,0 +1,9 @@
+@article{REPO004,
+    author = "Li, Yansheng and Wei, Fanyi and Zhang, Yongjun and Chen, Wei and Ma, Jiayi",
+    journal = "Information Fusion",
+    pages = "215--228",
+    publisher = "Elsevier",
+    title = "{HS2P: Hierarchical spectral and structure-preserving fusion network for multimodal remote sensing image cloud and shadow removal}",
+    volume = "94",
+    year = "2023"
+}
